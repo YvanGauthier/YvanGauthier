@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YvanGauthier
 - 👀 I’m interested in cybersecurity, networking and software developement 
-- 🌱 I’m currently learning C++ developement and python 
+- 🌱 I’m currently learning C# developement and python 
 - 💞️ I’m looking to collaborate on open source project. 
 - 📫 How to reach me on twiter and on my personal website 
 
